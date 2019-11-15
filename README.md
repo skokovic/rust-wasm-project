@@ -12,7 +12,7 @@ wasm-pack build
 wasm-pack test --headless --firefox
 ```
 
-### Run WASM application
+### 🏃 Run WASM application
 
 ```
 npm init wasm-app www
