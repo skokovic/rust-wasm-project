@@ -37,3 +37,4 @@ wasm-pack publish
   for small code size.
 
 test
+1
